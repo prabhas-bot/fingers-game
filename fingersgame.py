@@ -1,7 +1,7 @@
 
 
 
-games = 5
+games = 6 # This is the count of rounds you want to play,you can chage as you wish ,default rounds in a game are '6'.
 
 
 
@@ -74,15 +74,7 @@ elif  h < g:
 else:
     print('              -----------------------------------------------------Hurray It a Tie------------------------------------------------')
 
-"""
-  time.sleep(2)
-  k = input("Press 'x' to exit and 'y' to Play again.....  : ")
 
-
-  if k == 'y':
-    print("Ok Lets Play again")
-    time.sleep(1.5)
-  else:
       i += 1
       print("Thank you for playing")
 """
