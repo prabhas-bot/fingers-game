@@ -75,17 +75,6 @@ else:
     print('              -----------------------------------------------------Hurray It a Tie------------------------------------------------')
 
 
-      i += 1
-      print("Thank you for playing")
-"""
- 
+    i += 1
+    print("Thank you for playing")
 
- 
-while True:
-    char = getch()
- 
-    if (char == "p"):
-        print("Stop!")
-        exit(0)
-   
-      
