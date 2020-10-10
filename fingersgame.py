@@ -28,7 +28,7 @@ def scores(h, g):
     print('                                                                                                        Computer score ' + str(g))
 a = ['Rock', 'Paper', 'Scissor']
 print("Instruction: press 'r' for rock and s for scissor and p for paper")
-print(f"{rounds} Rounds match!")
+print(f"{games} Rounds match!")
 z = input("Press Enter to play")
 print("                                                      Lets Play Rock,Paper,Scissor!")
 i = 1
