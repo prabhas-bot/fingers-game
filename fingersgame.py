@@ -1,7 +1,7 @@
 
 
 
-games = 6 # This is the count of rounds you want to play,you can chage as you wish ,default rounds in a game are '6'.
+rounds = 6 # This is the count of rounds you want to play,you can chage as you wish ,default rounds in a game are '6'.
 
 
 
@@ -28,7 +28,7 @@ def scores(h, g):
     print('                                                                                                        Computer score ' + str(g))
 a = ['Rock', 'Paper', 'Scissor']
 print("Instruction: press 'r' for rock and s for scissor and p for paper")
-print("10 Rounds match!")
+print(f"{rounds} Rounds match!")
 z = input("Press Enter to play")
 print("                                                      Lets Play Rock,Paper,Scissor!")
 i = 1
