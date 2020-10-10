@@ -1,7 +1,7 @@
 
 
 
-rounds = 6 # This is the count of rounds you want to play,you can chage as you wish ,default rounds in a game are '6'.
+games = 6 # This is the count of rounds you want to play,you can chage as you wish ,default rounds in a game are '6'.
 
 
 
